@@ -26,4 +26,4 @@ public class Exericise_1_1 {
   }
 }
 
-/*output is [0,1,2,1]*/
+/*output is [0,1,2,0]*/
